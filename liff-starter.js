@@ -15,7 +15,7 @@ function initializeApp(data) {
     // openWindow call
     document.getElementById('openwindowbutton').addEventListener('click', function () {
         liff.openWindow({
-            url: 'https://sites.google.com/view/new-sticker/'
+            url: 'https://line.me'
         });
     });
 
@@ -27,29 +27,15 @@ function initializeApp(data) {
     // sendMessages call
     document.getElementById('sendmessagebutton').addEventListener('click', function () {
         liff.sendMessages([{
-            
- //การเรียกใช้งาน Class Scanner
-import java.util.Scanner;
- //ให้ Keyboard เป็นตัวแปรในการเก็บข้อมูลจากแป้นพิมพ์
-public class HelloJava {
-    public static void main(String[] args) {
-        Scanner Keyboard = new Scanner(System.in);
-//number1 ใช้ในการเก็บเลขจำนวนเต็ม .nextInt() โดยการเก็บค่าจาก Keyboard
-        System.out.print("Input Your Number 1 : ");
-        int number1 = Keyboard.nextInt();
- //number2 ใช้ในการเก็บเลขจำนวนเต็ม .nextInt() โดยการเก็บค่าจาก Keyboard
-        System.out.print("Input Your Number 2 : ");
-        int number2 = Keyboard.nextInt();
-            {
-          type: 'template',
+            type: 'template',
           altText: 'Sticker',
           template: {
              type: 'image_carousel',
              columns: [{
-                 imageUrl: 'https://stickershop.line-scdn.net/stickershop/v1/sticker/+number1/IOS/sticker_popup.png',
+                 imageUrl: 'https://stickershop.line-scdn.net/stickershop/v1/sticker/159360750/IOS/sticker_popup.png',
                  action: {
                      type: 'uri',
-                     uri: 'line://shop/sticker/detail/+number2'}}}
+                     uri: 'line://shop/sticker/detail/13561'}}
                           ]
                         }
         }]).then(function () {
