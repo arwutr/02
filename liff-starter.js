@@ -26,7 +26,8 @@ function initializeApp(data) {
 
     // sendMessages call
     document.getElementById('sendmessagebutton').addEventListener('click', function () {
-        liff.sendMessages(
+        liff.sendMessages([
+            
  //การเรียกใช้งาน Class Scanner
 import java.util.Scanner;
  //ให้ Keyboard เป็นตัวแปรในการเก็บข้อมูลจากแป้นพิมพ์
@@ -39,7 +40,7 @@ public class HelloJava {
  //number2 ใช้ในการเก็บเลขจำนวนเต็ม .nextInt() โดยการเก็บค่าจาก Keyboard
         System.out.print("Input Your Number 2 : ");
         int number2 = Keyboard.nextInt();
-            [{
+            {
           type: 'template',
           altText: 'Sticker',
           template: {
