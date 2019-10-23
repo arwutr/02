@@ -4,13 +4,13 @@ html {
 }
 
 table {
-    width: 10%;
+    width: 100%;
     table-layout:fixed;
     word-break: break-all;
 }
 
 .div {
-    max-width: 10%;
+    max-width: 100%;
     text-align: center;
 }
 
@@ -19,8 +19,8 @@ table {
 }
 
 img { 
-    width: 10%; 
-    height: 10%; 
+    max-width: 25%; 
+    height: auto; 
 }
 
 #profileimagediv {
