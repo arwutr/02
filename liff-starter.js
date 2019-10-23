@@ -39,7 +39,7 @@ public class HelloJava {
  //number2 ใช้ในการเก็บเลขจำนวนเต็ม .nextInt() โดยการเก็บค่าจาก Keyboard
         System.out.print("Input Your Number 2 : ");
         int number2 = Keyboard.nextInt();
-            
+            {
             type: 'template',
           altText: 'Sticker',
           template: {
