@@ -45,10 +45,10 @@ public class HelloJava {
           template: {
              type: 'image_carousel',
              columns: [{
-                 imageUrl: 'https://stickershop.line-scdn.net/stickershop/v1/sticker/+number1/IOS/sticker_popup.png',
+                 imageUrl: 'https://stickershop.line-scdn.net/stickershop/v1/sticker/+(number1)/IOS/sticker_popup.png',
                  action: {
                      type: 'uri',
-                     uri: 'line://shop/sticker/detail/+number2'}}
+                     uri: 'line://shop/sticker/detail/+number2'}}}
                           ]
                         }
         }]).then(function () {
