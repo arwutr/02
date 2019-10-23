@@ -26,7 +26,7 @@ function initializeApp(data) {
 
     // sendMessages call
     document.getElementById('sendmessagebutton').addEventListener('click', function () {
-        liff.sendMessages([
+        liff.sendMessages([{
             
  //การเรียกใช้งาน Class Scanner
 import java.util.Scanner;
@@ -49,7 +49,7 @@ public class HelloJava {
                  imageUrl: 'https://stickershop.line-scdn.net/stickershop/v1/sticker/+number1/IOS/sticker_popup.png',
                  action: {
                      type: 'uri',
-                     uri: 'line://shop/sticker/detail/+number2'}}
+                     uri: 'line://shop/sticker/detail/+number2'}}}
                           ]
                         }
         }]).then(function () {
