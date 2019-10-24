@@ -1,6 +1,6 @@
 
 html {
-    font-size: auto;
+    font-size: 11px;
 }
 
 table {
@@ -10,7 +10,7 @@ table {
 }
 
 .div {
-    width: 25%;
+    max-width: 100%;
     text-align: center;
 }
 
@@ -41,5 +41,5 @@ img {
 }
 
 button {
-    margin: auto;
+    margin: 4px;
 }
