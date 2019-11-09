@@ -9190,7 +9190,7 @@ function initializeApp(data) {
           template: {
              type: 'image_carousel',
              columns: [{
-                 imageUrl: 'https://stickershop.line-scdn.net/stickershop/v1/sticker/2468/IOS/sticker@2x.png',
+                 imageUrl: 'http://dl.stickershop.line.naver.jp/products/0/0/4/537/android/stickers/2468.png',
                  action: {
                      type: 'uri',
                      uri: 'line://shop/sticker/detail/537'}}
@@ -9209,7 +9209,7 @@ function initializeApp(data) {
           template: {
              type: 'image_carousel',
              columns: [{
-                 imageUrl: 'https://stickershop.line-scdn.net/stickershop/v1/sticker/2469/IOS/sticker@2x.png',
+                 imageUrl: 'http://dl.stickershop.line.naver.jp/products/0/0/4/537/android/stickers/2469.png',
                  action: {
                      type: 'uri',
                      uri: 'line://shop/sticker/detail/537'}}
@@ -9228,7 +9228,7 @@ function initializeApp(data) {
           template: {
              type: 'image_carousel',
              columns: [{
-                 imageUrl: 'https://stickershop.line-scdn.net/stickershop/v1/sticker/2470/IOS/sticker@2x.png',
+                 imageUrl: 'http://dl.stickershop.line.naver.jp/products/0/0/4/537/android/stickers/2470.png',
                  action: {
                      type: 'uri',
                      uri: 'line://shop/sticker/detail/537'}}
@@ -9247,7 +9247,7 @@ function initializeApp(data) {
           template: {
              type: 'image_carousel',
              columns: [{
-                 imageUrl: 'https://stickershop.line-scdn.net/stickershop/v1/sticker/2471/IOS/sticker@2x.png',
+                 imageUrl: 'http://dl.stickershop.line.naver.jp/products/0/0/4/537/android/stickers/2471.png',
                  action: {
                      type: 'uri',
                      uri: 'line://shop/sticker/detail/537'}}
@@ -9266,7 +9266,7 @@ function initializeApp(data) {
           template: {
              type: 'image_carousel',
              columns: [{
-                 imageUrl: 'https://stickershop.line-scdn.net/stickershop/v1/sticker/2472/IOS/sticker@2x.png',
+                 imageUrl: 'http://dl.stickershop.line.naver.jp/products/0/0/4/537/android/stickers/2472.png',
                  action: {
                      type: 'uri',
                      uri: 'line://shop/sticker/detail/537'}}
@@ -9285,7 +9285,7 @@ function initializeApp(data) {
           template: {
              type: 'image_carousel',
              columns: [{
-                 imageUrl: 'https://stickershop.line-scdn.net/stickershop/v1/sticker/2473/IOS/sticker@2x.png',
+                 imageUrl: 'http://dl.stickershop.line.naver.jp/products/0/0/4/537/android/stickers/2473.png',
                  action: {
                      type: 'uri',
                      uri: 'line://shop/sticker/detail/537'}}
@@ -9304,7 +9304,7 @@ function initializeApp(data) {
           template: {
              type: 'image_carousel',
              columns: [{
-                 imageUrl: 'https://stickershop.line-scdn.net/stickershop/v1/sticker/2474/IOS/sticker@2x.png',
+                 imageUrl: 'http://dl.stickershop.line.naver.jp/products/0/0/4/537/android/stickers/2474.png',
                  action: {
                      type: 'uri',
                      uri: 'line://shop/sticker/detail/537'}}
@@ -9323,7 +9323,7 @@ function initializeApp(data) {
           template: {
              type: 'image_carousel',
              columns: [{
-                 imageUrl: 'https://stickershop.line-scdn.net/stickershop/v1/sticker/2475/IOS/sticker@2x.png',
+                 imageUrl: 'http://dl.stickershop.line.naver.jp/products/0/0/4/537/android/stickers/2475.png',
                  action: {
                      type: 'uri',
                      uri: 'line://shop/sticker/detail/537'}}
@@ -9342,7 +9342,7 @@ function initializeApp(data) {
           template: {
              type: 'image_carousel',
              columns: [{
-                 imageUrl: 'https://stickershop.line-scdn.net/stickershop/v1/sticker/7023/IOS/sticker@2x.png',
+                 imageUrl: 'http://dl.stickershop.line.naver.jp/products/0/0/1/660/android/stickers/7023.png',
                  action: {
                      type: 'uri',
                      uri: 'line://shop/sticker/detail/660'}}
@@ -9361,7 +9361,7 @@ function initializeApp(data) {
           template: {
              type: 'image_carousel',
              columns: [{
-                 imageUrl: 'https://stickershop.line-scdn.net/stickershop/v1/sticker/7024/IOS/sticker@2x.png',
+                 imageUrl: 'http://dl.stickershop.line.naver.jp/products/0/0/1/660/android/stickers/7024.png',
                  action: {
                      type: 'uri',
                      uri: 'line://shop/sticker/detail/660'}}
@@ -9380,7 +9380,7 @@ function initializeApp(data) {
           template: {
              type: 'image_carousel',
              columns: [{
-                 imageUrl: 'https://stickershop.line-scdn.net/stickershop/v1/sticker/7025/IOS/sticker@2x.png',
+                 imageUrl: 'http://dl.stickershop.line.naver.jp/products/0/0/1/660/android/stickers/7025.png',
                  action: {
                      type: 'uri',
                      uri: 'line://shop/sticker/detail/660'}}
@@ -9399,7 +9399,7 @@ function initializeApp(data) {
           template: {
              type: 'image_carousel',
              columns: [{
-                 imageUrl: 'https://stickershop.line-scdn.net/stickershop/v1/sticker/7026/IOS/sticker@2x.png',
+                 imageUrl: 'http://dl.stickershop.line.naver.jp/products/0/0/1/660/android/stickers/7026.png',
                  action: {
                      type: 'uri',
                      uri: 'line://shop/sticker/detail/660'}}
@@ -9418,7 +9418,7 @@ function initializeApp(data) {
           template: {
              type: 'image_carousel',
              columns: [{
-                 imageUrl: 'https://stickershop.line-scdn.net/stickershop/v1/sticker/7027/IOS/sticker@2x.png',
+                 imageUrl: 'http://dl.stickershop.line.naver.jp/products/0/0/1/660/android/stickers/7027.png',
                  action: {
                      type: 'uri',
                      uri: 'line://shop/sticker/detail/660'}}
@@ -9437,7 +9437,7 @@ function initializeApp(data) {
           template: {
              type: 'image_carousel',
              columns: [{
-                 imageUrl: 'https://stickershop.line-scdn.net/stickershop/v1/sticker/7028/IOS/sticker@2x.png',
+                 imageUrl: 'http://dl.stickershop.line.naver.jp/products/0/0/1/660/android/stickers/7028.png',
                  action: {
                      type: 'uri',
                      uri: 'line://shop/sticker/detail/660'}}
@@ -9456,7 +9456,7 @@ function initializeApp(data) {
           template: {
              type: 'image_carousel',
              columns: [{
-                 imageUrl: 'https://stickershop.line-scdn.net/stickershop/v1/sticker/7029/IOS/sticker@2x.png',
+                 imageUrl: 'http://dl.stickershop.line.naver.jp/products/0/0/1/660/android/stickers/7029.png',
                  action: {
                      type: 'uri',
                      uri: 'line://shop/sticker/detail/660'}}
@@ -9475,7 +9475,7 @@ function initializeApp(data) {
           template: {
              type: 'image_carousel',
              columns: [{
-                 imageUrl: 'https://stickershop.line-scdn.net/stickershop/v1/sticker/7030/IOS/sticker@2x.png',
+                 imageUrl: 'http://dl.stickershop.line.naver.jp/products/0/0/1/660/android/stickers/7030.png',
                  action: {
                      type: 'uri',
                      uri: 'line://shop/sticker/detail/660'}}
