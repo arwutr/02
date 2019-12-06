@@ -13286,11 +13286,461 @@ function initializeApp(data) {
         });
     });
 
+    // sendMessages699
+    document.getElementById('sendmessagebutton699').addEventListener('click', function () {
+        liff.sendMessages([{
+            type: 'template',
+          altText: 'Sticker',
+          template: {
+             type: 'image_carousel',
+             columns: [{
+                 imageUrl: 'https://stickershop.line-scdn.net/stickershop/v1/sticker/261587150/IOS/sticker_popup.png',
+                 action: {
+                     type: 'uri',
+                     uri: 'line://shop/sticker/detail/16218'}}
+                          ]
+                        }
+        }]).then(function () {
+            liff.closeWindow();
+        });
+    });
 
+    // sendMessages700
+    document.getElementById('sendmessagebutton700').addEventListener('click', function () {
+        liff.sendMessages([{
+            type: 'template',
+          altText: 'Sticker',
+          template: {
+             type: 'image_carousel',
+             columns: [{
+                 imageUrl: 'https://stickershop.line-scdn.net/stickershop/v1/sticker/261587151/IOS/sticker_popup.png',
+                 action: {
+                     type: 'uri',
+                     uri: 'line://shop/sticker/detail/16218'}}
+                          ]
+                        }
+        }]).then(function () {
+            liff.closeWindow();
+        });
+    });
 
+    // sendMessages701
+    document.getElementById('sendmessagebutton701').addEventListener('click', function () {
+        liff.sendMessages([{
+            type: 'template',
+          altText: 'Sticker',
+          template: {
+             type: 'image_carousel',
+             columns: [{
+                 imageUrl: 'https://stickershop.line-scdn.net/stickershop/v1/sticker/261587152/IOS/sticker_popup.png',
+                 action: {
+                     type: 'uri',
+                     uri: 'line://shop/sticker/detail/16218'}}
+                          ]
+                        }
+        }]).then(function () {
+            liff.closeWindow();
+        });
+    });
 
+    // sendMessages702
+    document.getElementById('sendmessagebutton702').addEventListener('click', function () {
+        liff.sendMessages([{
+            type: 'template',
+          altText: 'Sticker',
+          template: {
+             type: 'image_carousel',
+             columns: [{
+                 imageUrl: 'https://stickershop.line-scdn.net/stickershop/v1/sticker/261587153/IOS/sticker_popup.png',
+                 action: {
+                     type: 'uri',
+                     uri: 'line://shop/sticker/detail/16218'}}
+                          ]
+                        }
+        }]).then(function () {
+            liff.closeWindow();
+        });
+    });
 
+    // sendMessages703
+    document.getElementById('sendmessagebutton703').addEventListener('click', function () {
+        liff.sendMessages([{
+            type: 'template',
+          altText: 'Sticker',
+          template: {
+             type: 'image_carousel',
+             columns: [{
+                 imageUrl: 'https://stickershop.line-scdn.net/stickershop/v1/sticker/261587154/IOS/sticker_popup.png',
+                 action: {
+                     type: 'uri',
+                     uri: 'line://shop/sticker/detail/16218'}}
+                          ]
+                        }
+        }]).then(function () {
+            liff.closeWindow();
+        });
+    });
 
+    // sendMessages704
+    document.getElementById('sendmessagebutton704').addEventListener('click', function () {
+        liff.sendMessages([{
+            type: 'template',
+          altText: 'Sticker',
+          template: {
+             type: 'image_carousel',
+             columns: [{
+                 imageUrl: 'https://stickershop.line-scdn.net/stickershop/v1/sticker/261587155/IOS/sticker_popup.png',
+                 action: {
+                     type: 'uri',
+                     uri: 'line://shop/sticker/detail/16218'}}
+                          ]
+                        }
+        }]).then(function () {
+            liff.closeWindow();
+        });
+    });
+
+    // sendMessages705
+    document.getElementById('sendmessagebutton705').addEventListener('click', function () {
+        liff.sendMessages([{
+            type: 'template',
+          altText: 'Sticker',
+          template: {
+             type: 'image_carousel',
+             columns: [{
+                 imageUrl: 'https://stickershop.line-scdn.net/stickershop/v1/sticker/261587156/IOS/sticker_popup.png',
+                 action: {
+                     type: 'uri',
+                     uri: 'line://shop/sticker/detail/16218'}}
+                          ]
+                        }
+        }]).then(function () {
+            liff.closeWindow();
+        });
+    });
+
+    // sendMessages706
+    document.getElementById('sendmessagebutton706').addEventListener('click', function () {
+        liff.sendMessages([{
+            type: 'template',
+          altText: 'Sticker',
+          template: {
+             type: 'image_carousel',
+             columns: [{
+                 imageUrl: 'https://stickershop.line-scdn.net/stickershop/v1/sticker/261587157/IOS/sticker_popup.png',
+                 action: {
+                     type: 'uri',
+                     uri: 'line://shop/sticker/detail/16218'}}
+                          ]
+                        }
+        }]).then(function () {
+            liff.closeWindow();
+        });
+    });
+
+    // sendMessages707
+    document.getElementById('sendmessagebutton707').addEventListener('click', function () {
+        liff.sendMessages([{
+            type: 'template',
+          altText: 'Sticker',
+          template: {
+             type: 'image_carousel',
+             columns: [{
+                 imageUrl: 'https://stickershop.line-scdn.net/stickershop/v1/sticker/261587158/IOS/sticker_popup.png',
+                 action: {
+                     type: 'uri',
+                     uri: 'line://shop/sticker/detail/16218'}}
+                          ]
+                        }
+        }]).then(function () {
+            liff.closeWindow();
+        });
+    });
+
+    // sendMessages708
+    document.getElementById('sendmessagebutton708').addEventListener('click', function () {
+        liff.sendMessages([{
+            type: 'template',
+          altText: 'Sticker',
+          template: {
+             type: 'image_carousel',
+             columns: [{
+                 imageUrl: 'https://stickershop.line-scdn.net/stickershop/v1/sticker/261587159/IOS/sticker_popup.png',
+                 action: {
+                     type: 'uri',
+                     uri: 'line://shop/sticker/detail/16218'}}
+                          ]
+                        }
+        }]).then(function () {
+            liff.closeWindow();
+        });
+    });
+
+    // sendMessages709
+    document.getElementById('sendmessagebutton709').addEventListener('click', function () {
+        liff.sendMessages([{
+            type: 'template',
+          altText: 'Sticker',
+          template: {
+             type: 'image_carousel',
+             columns: [{
+                 imageUrl: 'https://stickershop.line-scdn.net/stickershop/v1/sticker/261587160/IOS/sticker_popup.png',
+                 action: {
+                     type: 'uri',
+                     uri: 'line://shop/sticker/detail/16218'}}
+                          ]
+                        }
+        }]).then(function () {
+            liff.closeWindow();
+        });
+    });
+
+    // sendMessages710
+    document.getElementById('sendmessagebutton710').addEventListener('click', function () {
+        liff.sendMessages([{
+            type: 'template',
+          altText: 'Sticker',
+          template: {
+             type: 'image_carousel',
+             columns: [{
+                 imageUrl: 'https://stickershop.line-scdn.net/stickershop/v1/sticker/261587161/IOS/sticker_popup.png',
+                 action: {
+                     type: 'uri',
+                     uri: 'line://shop/sticker/detail/16218'}}
+                          ]
+                        }
+        }]).then(function () {
+            liff.closeWindow();
+        });
+    });
+
+    // sendMessages711
+    document.getElementById('sendmessagebutton711').addEventListener('click', function () {
+        liff.sendMessages([{
+            type: 'template',
+          altText: 'Sticker',
+          template: {
+             type: 'image_carousel',
+             columns: [{
+                 imageUrl: 'https://stickershop.line-scdn.net/stickershop/v1/sticker/261587162/IOS/sticker_popup.png',
+                 action: {
+                     type: 'uri',
+                     uri: 'line://shop/sticker/detail/16218'}}
+                          ]
+                        }
+        }]).then(function () {
+            liff.closeWindow();
+        });
+    });
+
+    // sendMessages712
+    document.getElementById('sendmessagebutton712').addEventListener('click', function () {
+        liff.sendMessages([{
+            type: 'template',
+          altText: 'Sticker',
+          template: {
+             type: 'image_carousel',
+             columns: [{
+                 imageUrl: 'https://stickershop.line-scdn.net/stickershop/v1/sticker/261587163/IOS/sticker_popup.png',
+                 action: {
+                     type: 'uri',
+                     uri: 'line://shop/sticker/detail/16218'}}
+                          ]
+                        }
+        }]).then(function () {
+            liff.closeWindow();
+        });
+    });
+
+    // sendMessages713
+    document.getElementById('sendmessagebutton713').addEventListener('click', function () {
+        liff.sendMessages([{
+            type: 'template',
+          altText: 'Sticker',
+          template: {
+             type: 'image_carousel',
+             columns: [{
+                 imageUrl: 'https://stickershop.line-scdn.net/stickershop/v1/sticker/261587164/IOS/sticker_popup.png',
+                 action: {
+                     type: 'uri',
+                     uri: 'line://shop/sticker/detail/16218'}}
+                          ]
+                        }
+        }]).then(function () {
+            liff.closeWindow();
+        });
+    });
+
+    // sendMessages714
+    document.getElementById('sendmessagebutton714').addEventListener('click', function () {
+        liff.sendMessages([{
+            type: 'template',
+          altText: 'Sticker',
+          template: {
+             type: 'image_carousel',
+             columns: [{
+                 imageUrl: 'https://stickershop.line-scdn.net/stickershop/v1/sticker/261587165/IOS/sticker_popup.png',
+                 action: {
+                     type: 'uri',
+                     uri: 'line://shop/sticker/detail/16218'}}
+                          ]
+                        }
+        }]).then(function () {
+            liff.closeWindow();
+        });
+    });
+
+    // sendMessages715
+    document.getElementById('sendmessagebutton715').addEventListener('click', function () {
+        liff.sendMessages([{
+            type: 'template',
+          altText: 'Sticker',
+          template: {
+             type: 'image_carousel',
+             columns: [{
+                 imageUrl: 'https://stickershop.line-scdn.net/stickershop/v1/sticker/261587166/IOS/sticker_popup.png',
+                 action: {
+                     type: 'uri',
+                     uri: 'line://shop/sticker/detail/16218'}}
+                          ]
+                        }
+        }]).then(function () {
+            liff.closeWindow();
+        });
+    });
+
+    // sendMessages716
+    document.getElementById('sendmessagebutton716').addEventListener('click', function () {
+        liff.sendMessages([{
+            type: 'template',
+          altText: 'Sticker',
+          template: {
+             type: 'image_carousel',
+             columns: [{
+                 imageUrl: 'https://stickershop.line-scdn.net/stickershop/v1/sticker/261587167/IOS/sticker_popup.png',
+                 action: {
+                     type: 'uri',
+                     uri: 'line://shop/sticker/detail/16218'}}
+                          ]
+                        }
+        }]).then(function () {
+            liff.closeWindow();
+        });
+    });
+
+    // sendMessages717
+    document.getElementById('sendmessagebutton717').addEventListener('click', function () {
+        liff.sendMessages([{
+            type: 'template',
+          altText: 'Sticker',
+          template: {
+             type: 'image_carousel',
+             columns: [{
+                 imageUrl: 'https://stickershop.line-scdn.net/stickershop/v1/sticker/261587168/IOS/sticker_popup.png',
+                 action: {
+                     type: 'uri',
+                     uri: 'line://shop/sticker/detail/16218'}}
+                          ]
+                        }
+        }]).then(function () {
+            liff.closeWindow();
+        });
+    });
+
+    // sendMessages718
+    document.getElementById('sendmessagebutton718').addEventListener('click', function () {
+        liff.sendMessages([{
+            type: 'template',
+          altText: 'Sticker',
+          template: {
+             type: 'image_carousel',
+             columns: [{
+                 imageUrl: 'https://stickershop.line-scdn.net/stickershop/v1/sticker/261587169/IOS/sticker_popup.png',
+                 action: {
+                     type: 'uri',
+                     uri: 'line://shop/sticker/detail/16218'}}
+                          ]
+                        }
+        }]).then(function () {
+            liff.closeWindow();
+        });
+    });
+
+    // sendMessages719
+    document.getElementById('sendmessagebutton719').addEventListener('click', function () {
+        liff.sendMessages([{
+            type: 'template',
+          altText: 'Sticker',
+          template: {
+             type: 'image_carousel',
+             columns: [{
+                 imageUrl: 'https://stickershop.line-scdn.net/stickershop/v1/sticker/261587170/IOS/sticker_popup.png',
+                 action: {
+                     type: 'uri',
+                     uri: 'line://shop/sticker/detail/16218'}}
+                          ]
+                        }
+        }]).then(function () {
+            liff.closeWindow();
+        });
+    });
+
+    // sendMessages720
+    document.getElementById('sendmessagebutton720').addEventListener('click', function () {
+        liff.sendMessages([{
+            type: 'template',
+          altText: 'Sticker',
+          template: {
+             type: 'image_carousel',
+             columns: [{
+                 imageUrl: 'https://stickershop.line-scdn.net/stickershop/v1/sticker/261587171/IOS/sticker_popup.png',
+                 action: {
+                     type: 'uri',
+                     uri: 'line://shop/sticker/detail/16218'}}
+                          ]
+                        }
+        }]).then(function () {
+            liff.closeWindow();
+        });
+    });
+
+    // sendMessages721
+    document.getElementById('sendmessagebutton721').addEventListener('click', function () {
+        liff.sendMessages([{
+            type: 'template',
+          altText: 'Sticker',
+          template: {
+             type: 'image_carousel',
+             columns: [{
+                 imageUrl: 'https://stickershop.line-scdn.net/stickershop/v1/sticker/261587172/IOS/sticker_popup.png',
+                 action: {
+                     type: 'uri',
+                     uri: 'line://shop/sticker/detail/16218'}}
+                          ]
+                        }
+        }]).then(function () {
+            liff.closeWindow();
+        });
+    });
+
+    // sendMessages722
+    document.getElementById('sendmessagebutton722').addEventListener('click', function () {
+        liff.sendMessages([{
+            type: 'template',
+          altText: 'Sticker',
+          template: {
+             type: 'image_carousel',
+             columns: [{
+                 imageUrl: 'https://stickershop.line-scdn.net/stickershop/v1/sticker/261587173/IOS/sticker_popup.png',
+                 action: {
+                     type: 'uri',
+                     uri: 'line://shop/sticker/detail/16218'}}
+                          ]
+                        }
+        }]).then(function () {
+            liff.closeWindow();
+        });
+    });
 
 
 
